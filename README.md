@@ -11,4 +11,7 @@
 2. blue = [0,0,1]
 3. red = [1,0,0]
 
-Pull request  : https://github.com/shahd1995913/chess-board/pull/1
+Pull request  :
+1. https://github.com/shahd1995913/chess-board/pull/1
+2. https://github.com/shahd1995913/chess-board/pull/2
+
